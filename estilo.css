@@ -8,13 +8,22 @@ body {
 	width: 900px;	
 }
 
-.cabecalho{
+.menu{
 			background-color: #ccccb3;
+			padding: 18px;
+
 		}
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
 
 
 .texto{
 			background-color: #f5f5f0;
+			padding: 10px;
 		}
 
 
